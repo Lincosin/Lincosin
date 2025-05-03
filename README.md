@@ -1,6 +1,7 @@
-## Hi there 👋
+## 
 
-# 💫 About Me:
+# 💫 Idk what i want to to input here so.. yeah, Hi👋
+
 🌱 I’m currently learning
 
 
