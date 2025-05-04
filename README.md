@@ -1,6 +1,6 @@
 ## 
 
-# 💫 Idk what i want to to input here so.. yeah, Hi👋
+# 💫 Idk what i want to input here so.. yeah, Hi👋
 
 🌱 I’m currently learning
 
