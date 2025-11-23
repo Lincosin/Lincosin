@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Will</h1>
+<h1 align="center">Hi there! 👋 I'm Willy</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00B4DB&center=true&vCenter=true&width=435&lines=💻+Frontend+Dev;🎨+UI%2FUX+Designer;🌱+Still+Learning" />
 </p>
