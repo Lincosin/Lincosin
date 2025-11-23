@@ -44,8 +44,6 @@ I'm still figuring things out, but loving the ride! 😄
 ![Laravel](https://img.shields.io/badge/laravel-f43f5e?style=for-the-badge&logo=laravel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-14b8a6?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-0f766e?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-2563eb?style=for-the-badge&logo=WordPress&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
