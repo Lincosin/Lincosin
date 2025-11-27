@@ -9,12 +9,6 @@
 
 Hey there! I'm Will — someone who's navigating the vibrant world of **code + design**.  
 I'm still figuring things out, but loving the ride! 😄
-
-- 🔭 I’m currently exploring **full-stack web development**
-- 🎯 Passionate about building sleek UIs and delightful UX
-- 💬 Ask me anything about frontend — especially React, Tailwind, Next.js!
-- ⚡ Fun fact: I build tools for problems nobody asked to solve 😅
-
 ---
 
 ## 🌐 Let's Connect!
@@ -46,15 +40,7 @@ I'm still figuring things out, but loving the ride! 😄
 ![MySQL](https://img.shields.io/badge/mysql-0f766e?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lincosin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Lincosin&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lincosin&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
-
----
 
 ## ✍️ Dev Quote of the Day
 
