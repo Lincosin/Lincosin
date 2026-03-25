@@ -1,15 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Willy</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00B4DB&center=true&vCenter=true&width=435&lines=💻+Frontend+Dev;🎨+UI%2FUX+Designer;🌱+Still+Learning" />
-</p>
 
 ---
 
-## 🚀 About Me
-
-Hey there! I'm Will — someone who's navigating the vibrant world of **code + design**.  
-I'm still figuring things out, but loving the ride! 😄
----
 
 ## 🌐 Let's Connect!
 
@@ -38,14 +30,4 @@ I'm still figuring things out, but loving the ride! 😄
 ![Laravel](https://img.shields.io/badge/laravel-f43f5e?style=for-the-badge&logo=laravel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-14b8a6?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-0f766e?style=for-the-badge&logo=mysql&logoColor=white)
----
-
-
-
-## ✍️ Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 ---
